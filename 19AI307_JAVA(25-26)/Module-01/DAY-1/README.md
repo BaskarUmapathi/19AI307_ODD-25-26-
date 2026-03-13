@@ -57,6 +57,4 @@ Thus, the java program to get name from the user (String) and print it is execut
 
 
 
-
-
-](https://github.com/Priyasenthil17/19AI307_ODD-25-26-/tree/main/19AI307_JAVA(25-26)/Module-01)
+](https://github.com/BaskarUmapathi/19AI307_ODD-25-26-/blob/main/19AI307_JAVA(25-26)/Module-01)
