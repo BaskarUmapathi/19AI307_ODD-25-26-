@@ -1,25 +1,6 @@
 # Ex.No:3(D)    INTERFACE 
 
 ## QUESTION:
-
-
-## AIM:
-
-
-## ALGORITHM :
-1.	Start the program.
-2.	Import the necessary package 'java.util'
-3.	
-
-
-
-
-
-## PROGRAM:
- ```
-/*# Ex.No:3(D)    INTERFACE 
-
-## QUESTION:
 You’re developing a multi-console gaming platform that supports different controllers. Each controller has its own way of mapping buttons for actions like Jump, Shoot, and Pause.
 
 To unify this behavior, you're asked to design a system using Java Interfaces. The interface will standardize the controls, and each controller will implement them differently.
@@ -163,23 +144,3 @@ Therefore the program successfully unifies different gaming controllers using a 
 
 
 
-
-Program to implement a Interface using Java
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## SOURCE CODE:
-
-
-
-
-
-
-
-## OUTPUT:
-
-
-
-## RESULT:
